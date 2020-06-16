@@ -1,7 +1,6 @@
 import numpy as np
 
 from backend.settings import BASE_DIR
-from common.singleton import Singleton
 from neural_network.configuration import SEQUENCE_LENGTH
 
 np.random.seed(42)
