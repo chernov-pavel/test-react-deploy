@@ -1,0 +1,10 @@
+Django==3.0.7
+django-cors-headers==3.3.0
+django-filter==2.3.0
+djangorestframework==3.11.0
+Keras==2.3.1
+matplotlib==3.2.1
+numpy==1.18.5
+seaborn==0.10.1
+tensorflow==1.15.2
+setuptools==41.0.0
