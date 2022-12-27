@@ -7,6 +7,6 @@ matplotlib==3.2.1
 numpy==1.18.5
 seaborn==0.10.1
 tensorflow==1.15.2
-setuptools==41.0.0
+setuptools==65.5.1
 django-heroku==0.3.1
 gunicorn==20.0.4
